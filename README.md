@@ -1,5 +1,5 @@
 # PFCSequenceModels
-Code used in [Bellet et al.] 2024(https://www.cell.com/cell-reports/fulltext/S2211-1247%2824%2900280-8)
+Code used in [Bellet et al. 2024](https://www.cell.com/cell-reports/fulltext/S2211-1247%2824%2900280-8)
 
 There is one jupyter notebook per main figure.
 
